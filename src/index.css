@@ -254,6 +254,9 @@ ul {
 /* ============= PROJECT CSS =============== */
 body {
   background: rgb(253, 250, 247);
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 0.5rem;
 
 }
 main {
@@ -338,4 +341,9 @@ footer {
   color: white;
   padding: 1em;
   text-align: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
 }
