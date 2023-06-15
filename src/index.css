@@ -253,7 +253,7 @@ ul {
 }
 /* ============= PROJECT CSS =============== */
 body {
-  background: rgb(253, 250, 247);
+  background: rgb(243, 235, 225);
   position: relative;
   min-height: 100vh;
   padding-bottom: 0.5rem;
@@ -276,7 +276,7 @@ main {
   margin: 1rem auto;
   /* width: 25rem; */
   border: 2px solid black;
-   background: rgb(253, 250, 247);
+   background: white;
   box-shadow: 8px 8px rgb(154, 154, 154);
   cursor: pointer;
   transition: var(--transition);
