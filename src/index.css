@@ -331,6 +331,7 @@ header img {
   background: black;
   border-radius: 0;
   padding: 0.65em 0.9em;
+  font-weight: bold;
 }
 .category-btn:hover {
   box-shadow: 5px 5px gray;
