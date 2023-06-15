@@ -253,7 +253,7 @@ ul {
 }
 /* ============= PROJECT CSS =============== */
 body {
-  background: rgb(243, 235, 225);
+  background: rgb(232, 237, 232);
   position: relative;
   min-height: 100vh;
   padding-bottom: 0.5rem;
@@ -270,14 +270,15 @@ main {
 }
 .title-menu {
   margin: 5rem auto 2rem auto;
+  color: rgb(43, 74, 43);
 }
 /* menu item */
 .menu-item {
   margin: 1rem auto;
   /* width: 25rem; */
-  border: 2px solid black;
+  border: 2px solid rgb(43, 74, 43);
    background: white;
-  box-shadow: 8px 8px rgb(154, 154, 154);
+  box-shadow: 8px 8px rgb(171, 189, 169);
   cursor: pointer;
   transition: var(--transition);
 }
@@ -328,7 +329,7 @@ header img {
   margin: 0rem auto;
 }
 .category-btn {
-  background: black;
+  background: rgb(43, 74, 43);
   border-radius: 0;
   padding: 0.65em 0.9em;
   font-weight: bold;
@@ -338,7 +339,7 @@ header img {
 }
 
 footer {
-  background: black;
+  background: rgb(43, 74, 43);
   color: white;
   padding: 1em;
   text-align: center;
